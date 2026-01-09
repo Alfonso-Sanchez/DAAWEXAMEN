@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ExamenAppApplication<examen-app>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "daaw.examen_app.ExamenAppApplication",
+            "projectName": "examen-app",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
